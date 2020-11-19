@@ -1,24 +1,22 @@
 # 01-Homework-HTML-CSS
-This is our first assignment for HTML / CSS
+First assignment for HTML / CSS.
 
 ## Description:
-This is our first assignment for HTML / CSS
-
-## Installation:
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum ullam quibusdam quisquam, velit dolorum praesentium? Unde possimus doloremque dolor? Minima vitae provident unde vel recusandae earum eos, ipsum quis totam.
+As a part of this assignment we learned:
+* How to modify HTML file
+* How to modify css file
+* How to properly comment HTML and CSS file
+* How to push the changes to gitHub
+* How to host the website using github
 
 ## Credits:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum ullam quibusdam quisquam, velit dolorum praesentium? Unde possimus doloremque dolor? Minima vitae provident unde vel recusandae earum eos, ipsum quis totam.
 
-## Usage:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum ullam quibusdam quisquam, velit dolorum praesentium? Unde possimus doloremque dolor? Minima vitae provident unde vel recusandae earum eos, ipsum quis totam.
+Kudos to Jason McGinthy, Emily Todt and Shauna Dunn. We worked together a team. So, there might be code matches between us.
 
-## Features:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum ullam quibusdam quisquam, velit dolorum praesentium? Unde possimus doloremque dolor? Minima vitae provident unde vel recusandae earum eos, ipsum quis totam..
 
-## Tests:
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum ullam quibusdam quisquam, velit dolorum praesentium? Unde possimus doloremque dolor? Minima vitae provident unde vel recusandae earum eos, ipsum quis totam.
+## Link to the Deployed App
+
+[link to Deployed App](https://binayaluitel2.github.io/01-Homework-HTML-CSS/)
 
 ## Screenshot of Deployed App
 
